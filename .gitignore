@@ -1,0 +1,6 @@
+
+# Ignorar entorno virtual
+.venv/
+
+# Ignorar archivo de configuración
+.env
